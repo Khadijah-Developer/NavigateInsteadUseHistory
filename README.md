@@ -1,0 +1,2 @@
+# NavigateInsteadUseHistory
+Created with CodeSandbox
